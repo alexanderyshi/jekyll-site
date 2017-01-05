@@ -1,7 +1,7 @@
 ### your site title here
 
 title: TRAVEL - AYS
-baseurl:  /travel # name of the repository
+baseurl:  /travel/index.html # name of the repository
 email: ayshi@edu.uwaterloo.ca
 
 destination: ../../website/alexanderyshi.github.io/travel/
@@ -17,8 +17,7 @@ markdown: kramdown
 #analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
-
+disqus-shortname:
 
 #optimization
 #compress.html
