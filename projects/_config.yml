@@ -1,7 +1,7 @@
 ### your site title here
 
 title: PROJECTS - AYS
-baseurl:  /projects/index.html # name of the repository
+baseurl:  /projects/ # name of the repository
 email: ayshi@edu.uwaterloo.ca
 
 destination: ../../website/alexanderyshi.github.io/projects/
