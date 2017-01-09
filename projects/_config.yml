@@ -1,0 +1,61 @@
+### your site title here
+
+title: PROJECTS - AYS
+baseurl:  / # name of the repository
+email: ayshi@edu.uwaterloo.ca
+
+destination: ../../website/alexanderyshi.github.io/projects/
+
+timezone: America/Toronto
+
+highlighter: rouge
+markdown: kramdown
+### exclude the instructions / write-up in the README.md
+
+
+# Tracker:
+#analytics: UA-83979019-1
+
+# Comments
+disqus-shortname:
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+  
+
+sass:
+ style: compressed
+
+exclude:
+- README.md
+
+
+gems: [jekyll-seo-tag, jekyll-paginate]
+
+# #i guess i should use an env. var. to mask the structure of my repos folder
+# #but this isn't running on a server or likely to be at risk of attack
+# #so i'm going to just leave it as is
+# 
+# source: ./
+# destination: ../../website/alexanderyshi.github.io/ #! dest will be clobbered
+# 
+# #rel. to dest
+# keep_files: [.git]
+# safe: TRUE
+# exclude: [] #rel. to source
+# include: []
+# timezone: America/Toronto
+# encoding: utf-8
+# 
+# #build options
+# incremental: FALSE
+# lsi: TRUE
