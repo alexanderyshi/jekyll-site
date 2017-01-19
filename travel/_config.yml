@@ -1,7 +1,7 @@
 ### your site title here
 
 title: TRAVEL - AYS
-baseurl:  /travel/ # name of the repository
+baseurl:  /travel # name of the repository
 email: ayshi@edu.uwaterloo.ca
 
 destination: ../../website/alexanderyshi.github.io/travel/
