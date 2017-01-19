@@ -1,7 +1,7 @@
 ---
 title: About Hagura
 layout: post
-permalink: /about/
+permalink: /about.html
 ---
 
-For more themes, visit [https://blog.webjeda.com](https://blog.webjeda.com)
+I am an engineer and a creative type that likes finding ways to combine the two into the art of the new world.
