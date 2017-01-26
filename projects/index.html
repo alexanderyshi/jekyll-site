@@ -1,7 +1,7 @@
 ---
 layout: default_home
 ---
-<h1 class="headline">{{site.title}}</h1>
+<center><h2 class="headline">{{site.title}}</h2></center>
 {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
 {% endfor %}
