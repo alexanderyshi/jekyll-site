@@ -12,7 +12,7 @@ Maddy tells me it was supposedly her idea to have a board game room get together
 
 At final call we were down for 8 at Ludica - a perfect sized group to split into two games. I got to teach a few games and learn a few along the way. The pizza was wonderful too after I traded away a few slices of the artichoke pizza I ordered. I'm not sure what I was thinking, either.
 
-* Cards Against Humanity <sub>was not my idea</sub>
+* Cards Against Humanity <sub>*(was not my idea*)</sub>
 * Machi Koro
 * Sushi Go
 * Junta
